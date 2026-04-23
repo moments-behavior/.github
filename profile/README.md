@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./social_preview.png" alt="moments-behavior" width="800">
+  <img src="./social_preview.png" alt="moments-behavior" width="100%">
 </p>
 
 # moments-behavior
