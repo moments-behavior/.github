@@ -11,7 +11,7 @@ keypoint annotation.
 ## Projects
 
 - **[orange](https://github.com/moments-behavior/orange)** — video capture
-- **[indigo](https://github.com/moments-behavior/indigo)** — robot control *(coming soon)*
+- **indigo** — robot control *(coming soon)*
 - **[red](https://github.com/moments-behavior/red)** — keypoint annotation
 
 ## Citation
