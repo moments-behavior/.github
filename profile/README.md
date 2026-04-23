@@ -25,7 +25,7 @@ A paper describing the full toolkit is in preparation.
 
 ## Lab
 
-The toolkit was developed at the [Johnson Lab](https://www.janelia.org/lab/johnson-lab)
+The toolkit is developed at the [Johnson Lab](https://www.janelia.org/lab/johnson-lab)
 at [HHMI Janelia Research Campus](https://www.janelia.org).
 
 For questions, please contact [Jinyao Yan](yanj11@janelia.hhmi.org)
