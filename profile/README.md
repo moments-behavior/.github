@@ -7,12 +7,14 @@
 A toolkit for recording and annotating animal behavior in
 neuroscience research — video capture, robot control, and
 keypoint annotation.
-
+                                                                   
 ## Projects
 
 - **[orange](https://github.com/moments-behavior/orange)** — video capture
 - **indigo** — robot control *(coming soon)*
 - **[red](https://github.com/moments-behavior/red)** — keypoint annotation
+
+[Documentation →](https://moments-behavior.github.io/docs/)
 
 ## Citation
 
